@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>晨光照耀</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>https://realtreesun.github.io/icon.png</icon>
+  <id>https://realtreesun.github.io/</id>
+  <link href="https://realtreesun.github.io/" rel="alternate"/>
+  <link href="https://realtreesun.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 晨光照耀</rights>
+  <subtitle>雄关漫道真如铁，而今迈步从头越</subtitle>
+  <title>晨光照耀</title>
+  <updated>2026-02-15T15:48:44.075Z</updated>
+  <entry>
+    <author>
+      <name>晨光照耀</name>
+    </author>
+    <category term="Butterfly" scheme="https://realtreesun.github.io/categories/Butterfly/"/>
+    <category term="教程" scheme="https://realtreesun.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="Hexo" scheme="https://realtreesun.github.io/tags/Hexo/"/>
+    <id>https://realtreesun.github.io/posts/Hello-World/</id>
+    <link href="https://realtreesun.github.io/posts/Hello-World/"/>
+    <published>2025-05-16T02:58:48.000Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-02-15T15:48:44.075Z</updated>
+  </entry>
+</feed>
